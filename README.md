@@ -25,3 +25,6 @@ O sistema foi desenvolvido para gerenciar diferentes tipos de transporte, como c
 Reduz o acoplamento entre o criador e os produtos concretos.
 
 Segue os princípios **Aberto/Fechado** e **Responsabilidade Única**.
+
+### Arquivo PDF da apresentação
+[Aula 1 – Padrões de Criação.pdf](https://github.com/user-attachments/files/17938532/Aula.1.Padroes.de.Criacao.pdf)
